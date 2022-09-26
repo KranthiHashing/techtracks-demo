@@ -1921,7 +1921,7 @@ body > * {
   background-size: cover;
   background-repeat: no-repeat; */
   /* background-size: contain;
-  background-image: url("assets/img/loading.jpg"); */
+  background-image: url("./static/assets/img/loading.jpg"); */
 }
 .preloader .preloader-before {
   top: 0;
